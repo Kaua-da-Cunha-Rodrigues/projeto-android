@@ -63,7 +63,7 @@ header > p{
     margin: auto; /*Por isso usei margin para centralizar*/
     color: white;
     text-align: center;
-    padding: 0 10px 20px 10px;
+    padding: 0 10px 30px 10px;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.418);
 }
 nav{
